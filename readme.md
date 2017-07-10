@@ -34,3 +34,7 @@ Existing Git repository
 For existing repositories, simply add the heroku remote
 
 $ heroku git:remote -a react-course-todo-app
+
+URL:
+=======
+https://react-course-todo-app.herokuapp.com/
